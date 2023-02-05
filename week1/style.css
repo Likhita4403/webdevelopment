@@ -1,0 +1,56 @@
+.fr1main{
+  background-color: #FFF7E9;
+  color: #1746A2;
+  overflow:hidden;
+  display: inline-flex;
+}
+.logo{
+  padding: 1rem;
+  padding-bottom: none;
+  height: 10rem;
+}
+.heads{
+  display: inline-flex;
+}
+.content{
+  font-size: 2.5rem;
+  color: #FF731D;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-top:1.3rem;
+  margin-left: 10rem;
+}
+.btnclass{
+  width: 70rem;
+  margin-top: .5rem;
+  /* margin-left: 10rem; */
+}
+.btn{
+  margin-left: 2rem;
+  width: 15%;
+  padding: .4rem;
+  font-size: 1rem;
+  background-color: #5F9DF7;
+  border-radius: 0.3rem;
+
+}
+.btn:hover{
+  background-color: rgb(221, 220, 217);
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+  color:  #FFF7E9;
+}
+.aa{
+  color: #1746A2;
+}
+.course{
+  color: #1746A2;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+.subject{
+  margin: 1rem;
+  padding:1rem;
+  text-decoration: none;
+}
