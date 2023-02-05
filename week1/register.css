@@ -1,36 +1,45 @@
 .main{
-  width: 30%;
+  width: 35%;
   margin-left: 30%;
   margin-top: 5%;
-  padding: 2rem;
   overflow: hidden;
-  /* justify-content: space-around; */
   border: #1746A2;
   border-radius: 10%;
   border-style:inset;
 }
 h1{
-  margin-left: 23%;
+  margin-left:12%;
+  margin-bottom: 0;
   color: #1746A2;
   font-size: 4rem;
 }
 label{
-  /* justify-content: end; */
- font-size: 1.5rem;
- color:#1746A2;
- padding: 5%;
+  justify-content: end;
+  font-size: 1.5rem;
+  color:#1746A2;
+  display: inline-block;
+  clear: left;
+  padding: 4%;
 }
 input{
+  display: inline-block;
+  float: right;
+  margin-right: 5%;
   padding: .5rem;
-  margin: 1rem;
+  margin-top: 1rem;
 }
 button{
   padding:0.3rem;
-  margin-top: .3rem;
-  width: 50%;
-  margin-left: 5rem;
+  margin-top: 1rem;
+  width: 35%;
+  margin-left: 3rem;
+  margin-bottom: 1rem;
   color: #FFF7E9;
   background-color: #5F9DF7;
   border-color:#5F9DF7;
-  font-size: 1.5rem;
+  font-size: 1rem;
+}
+a{
+  color: #FFF7E9;
+  text-decoration:none ;
 }

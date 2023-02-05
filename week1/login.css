@@ -4,7 +4,6 @@
   margin-top: 5%;
   padding: 2rem;
   overflow: hidden;
-  /* justify-content: space-around; */
   border: #1746A2;
   border-radius: 10%;
   border-style:inset;
@@ -15,7 +14,6 @@ h1{
   font-size: 4rem;
 }
 label{
-  /* justify-content: end; */
  font-size: 1.5rem;
  color:#1746A2;
  padding: 5%;
